@@ -16,6 +16,7 @@ module.exports = {
   },
   plugins: [
     'react',
+    'next.js',
   ],
   rules: {
     'jsx-a11y/label-has-associated-control': 0,
